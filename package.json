@@ -10,6 +10,22 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/additivityy/chalkboard-theme"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "color-theme",
+    "dark-theme",
+    "chalkboard",
+    "faded-chalk",
+    "blackboard",
+    "low-contrast",
+    "dark",
+    "dark-theme"
+  ],
   "contributes": {
     "themes": [
       {
