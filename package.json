@@ -1,0 +1,22 @@
+{
+  "name": "chalkboard",
+  "displayName": "chalkboard",
+  "description": "inspired by blackboards and faded chalk",
+  "version": "0.0.1",
+  "publisher": "additivityy",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "chalkboard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chalkboard-color-theme.json"
+      }
+    ]
+  }
+}
